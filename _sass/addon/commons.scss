@@ -35,6 +35,10 @@ body {
   font-family: $font-family-base;
 }
 
+img {
+  border-radius: 5px;
+}
+
 /* --- Typography --- */
 
 @for $i from 1 through 5 {
