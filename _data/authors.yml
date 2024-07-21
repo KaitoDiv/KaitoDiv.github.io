@@ -6,6 +6,10 @@
 #   url: {homepage_of_author}
 # -------------------------------------
 
+kaito:
+  name: kaito
+  url: https://github.com/KaitoDiv/
+
 cotes:
   name: Cotes Chung
   twitter: cotes2020
